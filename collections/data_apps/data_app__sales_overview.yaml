@@ -1,0 +1,5 @@
+name: 'Data App: sales-overview'
+entity_id: tiZRj6-ZH3XyjVli_takI
+namespace: data-apps
+serdes/meta:
+- model: Collection

@@ -1,0 +1,9 @@
+collection: tiZRj6-ZH3XyjVli_takI
+description: 'Test app: sales KPIs'
+entity_id: wkzQ8thQPz2GxpBIYV8-f
+name: Sales Overview
+path: ./dist/index.js
+slug: sales-overview
+version: 1
+serdes/meta:
+- model: DataApp
