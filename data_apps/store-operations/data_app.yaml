@@ -1,10 +1,9 @@
+collection: DwFRhmJyZE9yUpNH2oCSv
+description: Executive dashboard for store revenue, orders, and product performance
+entity_id: G4xREKRHwQTUBc1716__E
 name: Store Operations
-slug: store-operations
 path: ./dist/index.js
-
-# Origins this app may call with fetch/XHR. Everything else is blocked — both in
-# `npm run dev` (via the dev server's CSP) and inside Metabase (the sandbox).
-# The Metabase instance itself is reached through the SDK, not listed here.
-# allowed_hosts:
-#   - https://api.example.com
-#   - https://*.internal.acme.com
+slug: store-operations
+version: 1
+serdes/meta:
+- model: DataApp

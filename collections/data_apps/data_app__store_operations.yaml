@@ -1,0 +1,5 @@
+name: 'Data App: store-operations'
+entity_id: DwFRhmJyZE9yUpNH2oCSv
+namespace: data-apps
+serdes/meta:
+- model: Collection
